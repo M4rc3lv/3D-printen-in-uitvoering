@@ -3,3 +3,5 @@ Als de printer print gaat de lamp automatisch aan en knippert rood in een rustig
 Deze lamp werkt standalone via Wifi, je kunt hem neerzetten waar je wilt. Bijvoorbeeld in de huiskamer terwijl de printer in je makerspace staat.
 
 Zie: https://marcelv.net/index.php?w=apparaat&id=287
+
+<img src=https://marcelv.net/data/db287_Eind-Aan.jpg width=400>
